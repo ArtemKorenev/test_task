@@ -21,7 +21,6 @@ GEM
       guard (~> 2.1)
       guard-compat (~> 1.1)
       rspec (>= 2.99.0, < 4.0)
-    headless (2.2.0)
     listen (3.0.5)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -70,7 +69,6 @@ PLATFORMS
 
 DEPENDENCIES
   guard-rspec
-  headless
   rspec
   watir-webdriver
 
